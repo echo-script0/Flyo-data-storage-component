@@ -14,8 +14,7 @@ The challenge was to build a responsive Fylo Data Storage Component that closely
 - Mobile: ![Screenshot](Mobile.png)
 
 ### Links
-- Solution URL: 
-- Live Site URL: 
+- Live Site URL: https://echo-script0.github.io/Flyo-data-storage-component/
 
 ### Built with
 - HTML5
