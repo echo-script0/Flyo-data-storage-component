@@ -58,6 +58,10 @@ main {display: flex;
                          border-radius: 10px;
                          display: flex;
                          justify-content: center;}
+                        
+/*This is the code for the psuedo classes. The first one is your code
+but the second one is the one you got from one of the submissions from
+frontend mentor.*/
 
 .space::after {
   content: '';
@@ -69,6 +73,14 @@ main {display: flex;
   border-left: 15px solid transparent;
   border-right: 15px solid transparent;
   border-top: 20px solid white;
+}
+.space::after{
+    content: '';
+    position: absolute;
+    right: 0;
+    bottom: -20px;
+    border-top: 20px solid white;
+    border-left: 20px solid transparent;
 }
 
 .space .big-text{color: hsl(228, 56%, 26%);
